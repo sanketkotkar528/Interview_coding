@@ -48,3 +48,7 @@ The questions and topics related to the ones you've asked cover a range of commo
   - Implement Euclidean algorithm for finding the greatest common divisor (GCD) of two numbers.
   - Write a function to calculate the nth Fibonacci number using matrix exponentiation.
   - Solve probability or combinatorics problems.
+
+7. Pandas
+
+8. Numpy
